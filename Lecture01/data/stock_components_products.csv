@@ -1,0 +1,5 @@
+product,daily_demand_units,production_cycle_days,safety_stock_days,process_stock_days,pipeline_stock_days,anticipation_stock_units,unit_cost
+P1 Detergent,1200,14,5,2,4,6000,3.2
+P2 Shampoo,800,21,7,3,4,0,4.5
+P3 Toothpaste,1500,7,3,2,6,9000,2.1
+P4 Softener,500,28,9,4,5,2000,5.0

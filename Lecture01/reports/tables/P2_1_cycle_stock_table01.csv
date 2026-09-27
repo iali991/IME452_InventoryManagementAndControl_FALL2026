@@ -1,0 +1,5 @@
+lot_size_Q,cycles_per_year,cycle_time_days,max_cycle_stock,min_cycle_stock,avg_cycle_stock_units,avg_coverage_days
+4000,3.0,80.0,4000,0,2000.0,40.0
+2000,6.0,40.0,2000,0,1000.0,20.0
+1000,12.0,20.0,1000,0,500.0,10.0
+500,24.0,10.0,500,0,250.0,5.0

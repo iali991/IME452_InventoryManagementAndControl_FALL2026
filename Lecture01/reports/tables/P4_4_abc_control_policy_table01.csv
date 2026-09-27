@@ -1,0 +1,4 @@
+class,level_of_control,review,records,safety_stock_and_lot_size,who_manages
+A,Tight,Continuous / weekly,"Perpetual, audited, cycle-counted monthly","Low SS, small frequent lots, close follow-up",Senior planner
+B,Normal,Bi-weekly to monthly,"Perpetual, counted quarterly",Moderate,Planner
+C,Least possible,Quarterly or two-bin,"Simple, counted yearly","Generous SS, large infrequent lots",Clerk / automatic

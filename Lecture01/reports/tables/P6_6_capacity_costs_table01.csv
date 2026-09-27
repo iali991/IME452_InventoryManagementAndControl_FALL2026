@@ -1,0 +1,4 @@
+strategy,Regular production,Overtime premium,Holding,Hiring,Training,Layoff,Shift premium,Subcontracting,Total
+S1 Level + anticipation,640000.0,36900.0,19041.0,0.0,0.0,0.0,0.0,0.0,695941.0
+S2 Chase demand,604000.0,0.0,0.0,38940.0,14160.0,53100.0,13950.0,67500.0,791650.0
+S3 Fixed workforce,555000.0,19800.0,0.0,0.0,0.0,0.0,0.0,159375.0,734175.0

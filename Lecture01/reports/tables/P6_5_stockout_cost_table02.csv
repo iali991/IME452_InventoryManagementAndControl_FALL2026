@@ -1,0 +1,16 @@
+event_id,month,item,type,short_units,delay_days,expedited,bookkeeping_delay_cost,lost_profit,goodwill_loss,expediting_cost,total_cost
+25,6,Compressor,lost_sale,94,0,True,0.0,23688.000000000004,5640,1800,31128.000000000004
+28,9,Compressor,lost_sale,75,0,False,0.0,18900.0,4500,0,23400.0
+24,9,Inverter PCB,lost_sale,81,0,False,0.0,18144.0,4860,0,23004.0
+7,11,Inverter PCB,lost_sale,78,0,False,0.0,17472.0,4680,0,22152.0
+2,11,Door assembly,lost_sale,103,0,True,0.0,12978.0,6180,1800,20958.0
+21,2,Door assembly,lost_sale,102,0,True,0.0,12852.0,6120,1800,20772.0
+19,3,Inverter PCB,lost_sale,59,0,True,0.0,13216.0,3540,1800,18556.0
+37,8,Inverter PCB,lost_sale,60,0,False,0.0,13440.0,3600,0,17040.0
+4,12,Inverter PCB,lost_sale,56,0,False,0.0,12544.0,3360,0,15904.0
+26,9,Door assembly,lost_sale,70,0,True,0.0,8820.0,4200,1800,14820.0
+17,3,Inverter PCB,lost_sale,52,0,False,0.0,11648.0,3120,0,14768.0
+33,2,Inverter PCB,backorder,117,20,True,4914.0,0.0,2340,1800,9054.0
+18,6,Inverter PCB,lost_sale,29,0,False,0.0,6496.0,1740,0,8236.0
+38,1,Door assembly,backorder,106,18,True,4134.0,0.0,2120,1800,8054.0
+31,7,Drum bearing,backorder,105,16,True,3780.0,0.0,2100,1800,7680.0

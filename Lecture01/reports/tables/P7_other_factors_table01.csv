@@ -1,0 +1,5 @@
+stage,months,avg_demand,demand_cv,growth_per_month_pct,control_emphasis
+Introduction,0–8,46.202184247954094,1.1397541335742576,45.77895817897813,"Uncertain demand; small lots, fast review; avoid over-stocking"
+Growth,8–20,571.6717652025776,0.3713702520671619,10.568924574569595,"Rising demand; secure capacity and supply, raise stock"
+Maturity,20–40,897.8077925368855,0.14864278375501144,-1.9846063980563189,"Stable demand; EOQ/ROP, cost focus, high turns"
+Decline,40–60,365.8910031374254,0.39354690346299115,-6.6661913345626616,"Falling demand; run down stock, obsolescence risk"

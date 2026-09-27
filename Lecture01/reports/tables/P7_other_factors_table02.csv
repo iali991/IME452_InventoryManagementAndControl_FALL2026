@@ -1,0 +1,3 @@
+demand_type,examples,how_determined,typical_models
+Independent,"Finished goods, spare parts, service kits",Forecast from market,"EOQ / ROP, periodic review, newsvendor"
+Dependent,"Components, sub-assemblies, raw materials",Calculated from end-item plan × BOM (MRP),"MRP, lot-for-lot, JIT/kanban"

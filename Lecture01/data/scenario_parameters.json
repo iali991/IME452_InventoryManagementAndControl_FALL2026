@@ -1,0 +1,77 @@
+{
+  "holding_cost_rate": 0.37,
+  "cycle_stock_demo": {
+    "annual_demand": 12000,
+    "working_days": 240,
+    "lot_sizes": [
+      4000,
+      2000,
+      1000,
+      500
+    ]
+  },
+  "order_tradeoff_item": {
+    "name": "Inverter PCB",
+    "annual_demand": 4800,
+    "unit_value": 410,
+    "ordering_cost": 2630,
+    "holding_rate": 0.37
+  },
+  "safety_stock_demo": {
+    "lead_time_days": 8,
+    "service_levels": [
+      0.8,
+      0.85,
+      0.9,
+      0.95,
+      0.975,
+      0.99,
+      0.995
+    ],
+    "unit_value": 55,
+    "holding_rate": 0.37,
+    "sim_replications": 4000
+  },
+  "stockout_costs": {
+    "backorder_admin_per_unit": 12,
+    "backorder_delay_cost_per_unit_day": 1.5,
+    "goodwill_per_unit_backorder": 20,
+    "goodwill_per_unit_lost": 60,
+    "expediting_fixed": 1800
+  },
+  "capacity_costs": {
+    "regular_cost_per_unit": 40,
+    "overtime_premium_per_unit": 18,
+    "subcontract_per_unit": 75,
+    "holding_cost_per_unit_month": 2.2,
+    "hire_cost_per_unit_capacity": 22,
+    "layoff_cost_per_unit_capacity": 30,
+    "training_cost_per_unit_capacity": 8,
+    "shift_premium_per_unit": 6,
+    "shutdown_capacity_fraction": 0.5
+  },
+  "product_variety_demo": {
+    "total_mean_daily_demand": 1000,
+    "cv_per_sku_at_1": 0.25,
+    "lead_time_days": 9,
+    "z": 1.645,
+    "sku_counts": [
+      1,
+      2,
+      4,
+      8,
+      16,
+      32,
+      64
+    ]
+  },
+  "abc_thresholds": {
+    "A": 0.8,
+    "B": 0.95
+  },
+  "abc_multicriteria_weights": {
+    "dollar_usage": 0.6,
+    "scarcity": 0.25,
+    "quality": 0.15
+  }
+}

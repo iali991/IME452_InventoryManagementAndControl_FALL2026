@@ -1,0 +1,26 @@
+parent,component,qty_per_parent
+WM-100,Cabinet assembly,1
+WM-100,Drum assembly,1
+WM-100,Motor unit,1
+WM-100,Control unit,1
+WM-100,Door assembly,1
+WM-100,Hose kit,1
+Cabinet assembly,Steel panel,4
+Cabinet assembly,Screw M4,24
+Cabinet assembly,Foot leveller,4
+Drum assembly,Inner drum,1
+Drum assembly,Drum bearing,2
+Drum assembly,Shock absorber,2
+Drum assembly,Spring,2
+Motor unit,Motor 0.5kW,1
+Motor unit,Drive belt,1
+Motor unit,Screw M4,6
+Control unit,Inverter PCB,1
+Control unit,Wire harness,1
+Control unit,Knob,2
+Door assembly,Glass bowl,1
+Door assembly,Door gasket,1
+Door assembly,Hinge,2
+Hose kit,Inlet hose,1
+Hose kit,Drain hose,1
+Hose kit,Hose clamp,4

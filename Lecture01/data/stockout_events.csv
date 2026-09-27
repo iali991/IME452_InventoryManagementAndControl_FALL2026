@@ -1,0 +1,41 @@
+event_id,month,item,type,short_units,unit_price,profit_margin,delay_days,expedited
+1,9,Drum bearing,backorder,19,70,0.45,19,False
+2,11,Door assembly,lost_sale,103,420,0.3,0,True
+3,2,Door assembly,lost_sale,30,420,0.3,0,False
+4,12,Inverter PCB,lost_sale,56,640,0.35,0,False
+5,5,Inverter PCB,backorder,32,640,0.35,6,False
+6,2,Compressor,backorder,68,900,0.28,16,True
+7,11,Inverter PCB,lost_sale,78,640,0.35,0,False
+8,11,Inverter PCB,backorder,51,640,0.35,14,False
+9,12,Compressor,backorder,109,900,0.28,20,False
+10,10,Door assembly,backorder,83,420,0.3,11,False
+11,10,Compressor,backorder,79,900,0.28,5,True
+12,2,Door assembly,backorder,28,420,0.3,7,False
+13,11,Inverter PCB,lost_sale,5,640,0.35,0,True
+14,8,Drum bearing,lost_sale,22,70,0.45,0,False
+15,1,Inverter PCB,backorder,100,640,0.35,17,False
+16,9,Drum bearing,backorder,108,70,0.45,7,False
+17,3,Inverter PCB,lost_sale,52,640,0.35,0,False
+18,6,Inverter PCB,lost_sale,29,640,0.35,0,False
+19,3,Inverter PCB,lost_sale,59,640,0.35,0,True
+20,1,Inverter PCB,backorder,63,640,0.35,9,False
+21,2,Door assembly,lost_sale,102,420,0.3,0,True
+22,9,Compressor,backorder,77,900,0.28,10,True
+23,10,Door assembly,backorder,93,420,0.3,2,False
+24,9,Inverter PCB,lost_sale,81,640,0.35,0,False
+25,6,Compressor,lost_sale,94,900,0.28,0,True
+26,9,Door assembly,lost_sale,70,420,0.3,0,True
+27,6,Compressor,backorder,6,900,0.28,4,True
+28,9,Compressor,lost_sale,75,900,0.28,0,False
+29,12,Drum bearing,backorder,38,70,0.45,9,False
+30,2,Compressor,backorder,95,900,0.28,2,False
+31,7,Drum bearing,backorder,105,70,0.45,16,True
+32,12,Compressor,backorder,26,900,0.28,13,False
+33,2,Inverter PCB,backorder,117,640,0.35,20,True
+34,7,Inverter PCB,backorder,11,640,0.35,4,False
+35,1,Inverter PCB,backorder,23,640,0.35,18,True
+36,9,Door assembly,backorder,78,420,0.3,9,False
+37,8,Inverter PCB,lost_sale,60,640,0.35,0,False
+38,1,Door assembly,backorder,106,420,0.3,18,True
+39,4,Inverter PCB,backorder,43,640,0.35,17,True
+40,4,Drum bearing,backorder,100,70,0.45,18,False

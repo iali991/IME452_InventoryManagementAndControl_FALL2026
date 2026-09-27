@@ -1,0 +1,16 @@
+sku,category,annual_dollar_usage,scarcity_score_1to5,quality_incidents_per_year,score,class_dollar,class_multi
+SKU-0167,Finished good,7875.870000000001,5,4,0.8278749999999999,B,A
+SKU-0155,Packaging,9547.859999999999,4,6,0.80475,B,A
+SKU-0034,Sub-assembly,3820.96,5,8,0.7641249999999999,B,A
+SKU-0186,Sub-assembly,9489.24,3,5,0.731375,B,A
+SKU-0175,Finished good,3621.42,5,2,0.721,B,A
+SKU-0070,Purchased part,4892.46,4,3,0.706125,B,A
+SKU-0086,Sub-assembly,7616.700000000001,3,4,0.699875,B,A
+SKU-0017,Purchased part,9184.49,3,2,0.698,B,A
+SKU-0126,Raw material,5617.62,5,0,0.6951249999999999,B,A
+SKU-0023,Packaging,3338.7000000000003,4,6,0.68475,B,A
+SKU-0106,Raw material,9417.24,4,0,0.6836249999999999,B,A
+SKU-0077,Raw material,5540.7,4,1,0.67725,B,A
+SKU-0108,MRO supply,1378.0,5,6,0.57925,C,B
+SKU-0145,Finished good,1693.1999999999998,4,6,0.55575,C,B
+SKU-0149,Raw material,1474.43,4,4,0.519375,C,B

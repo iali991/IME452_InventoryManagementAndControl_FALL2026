@@ -1,0 +1,16 @@
+mode,category,element,cost_per_order_egp
+Buy,Administrative & Procurement,Purchase requisition staff time,180
+Buy,Administrative & Procurement,Purchase order generation,90
+Buy,Administrative & Procurement,Vendor communication & follow-up,120
+Buy,Transportation & Logistics,Inbound freight (fixed part),850
+Buy,Transportation & Logistics,Customs clearance fee,400
+Buy,Transportation & Logistics,Transit insurance (fixed),150
+Buy,Receiving & Handling,Unloading labour,220
+Buy,Receiving & Handling,Inspection & QC sampling,310
+Buy,Receiving & Handling,Labelling & put-away,140
+Buy,Systems & Setup,ERP / EDI transaction fees,60
+Buy,Payment Processing,Invoice matching & remittance,110
+Make,Production Control,Work-order release & scheduling,250
+Make,Set-up & Tear-down,Machine changeover labour,1400
+Make,Set-up & Tear-down,First-article scrap,600
+Make,Lost Capacity,Idle capacity during changeover,1900
