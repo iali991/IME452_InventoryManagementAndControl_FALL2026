@@ -1,0 +1,8 @@
+problem_id,model,D,A,v,r,m,d,Q1,Q_used,question
+P1,EOQ,5200,40,12.5,0.2,,,,,"Find the EOQ, the number of orders per year and TRC(EOQ)."
+P2,EOQ,900,75,60.0,0.25,,,,,Express the EOQ as months of supply (T_EOQ) and compute the turnover ratio TR.
+P3,PCP,5200,40,12.5,0.2,,,,600.0,The buyer orders 600 units each time. What is the percentage cost penalty (PCP)?
+P4,EPQ,30000,600,9.0,0.18,90000.0,,,,"Compute EPQ, the maximum inventory level and the length of each production run (weeks, 52 weeks/year)."
+P5,DISCOUNT,1800,50,20.0,0.2,,0.03,400.0,,All-units discount of 3% for Q >= 400. Find the best order quantity and which case applies.
+P6,DISCOUNT,1800,50,20.0,0.2,,0.01,800.0,,All-units discount of 1% for Q >= 800. Find the best order quantity and which case applies.
+P7,DISCOUNT,1800,50,20.0,0.2,,0.04,200.0,,All-units discount of 4% for Q >= 200. Find the best order quantity and which case applies.

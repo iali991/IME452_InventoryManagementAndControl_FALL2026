@@ -1,0 +1,6 @@
+parameter,symbol,value,unit,description
+annual_demand,D,12000,units/year,Demand rate of the finished item
+setup_cost,A,450,$/setup,Fixed cost of one production run (machine setup/changeover)
+unit_cost,v,18.50,$/unit,Unit variable (production) cost of the item
+carrying_rate,r,0.22,$/$/year,Annual carrying charge
+production_rate,m,48000,units/year,Rate at which the line produces the item while running

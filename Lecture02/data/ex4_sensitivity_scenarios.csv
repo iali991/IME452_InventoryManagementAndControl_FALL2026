@@ -1,0 +1,8 @@
+scenario,Q_used,reason
+Order exactly the EOQ,400,Benchmark
+Supplier ships in cases of 250,250,Pack-size rounding down
+Supplier ships in cases of 500,500,Pack-size rounding up
+Buyer orders one month of demand,200,Rule-of-thumb policy
+Buyer orders one quarter of demand,600,Rule-of-thumb policy
+Warehouse orders half a year at a time,1200,Large infrequent orders
+Buyer orders weekly,46,Very frequent small orders

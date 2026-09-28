@@ -1,0 +1,5 @@
+parameter,symbol,value,unit,description
+annual_demand,D,2400,units/year,Demand rate of the item (constant and deterministic)
+ordering_cost,A,3.20,$/order,Fixed cost per replenishment order (independent of order size)
+unit_cost,v,0.40,$/unit,Unit variable cost (value of the item)
+carrying_rate,r,0.24,$/$/year,Cost of holding one dollar of inventory for one year

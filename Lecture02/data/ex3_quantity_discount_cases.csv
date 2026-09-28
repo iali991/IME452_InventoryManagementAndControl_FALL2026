@@ -1,0 +1,4 @@
+case_name,D,A,r,v0,d,Q1,note
+Case 1 - break quantity is optimal,2400,3.20,0.24,0.40,0.02,500,EOQ(d) < Q1 and TRC(Q1) < TRC(EOQ no discount)
+Case 2 - ignore the discount,2400,3.20,0.24,0.40,0.01,1200,EOQ(d) < Q1 and TRC(Q1) > TRC(EOQ no discount)
+Case 3 - discounted EOQ is optimal,2400,3.20,0.24,0.40,0.02,300,EOQ(d) >= Q1
